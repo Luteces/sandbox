@@ -22,4 +22,18 @@ The backend part is build with Fastify NodeJS
 To learn Fastify, check out the [Fastify documentation](https://www.fastify.io/docs/latest/).
 
 # Tools
-Docker, Kube, GitHub Actions, Cypress, Tailwind all of this stuff will be used to improve knowledge and to have fun with it
+all of this stuff will be used to improve knowledge and to have fun with it
+# Docker
+Docker is a tool that allows you to run applications on a virtual machine.
+
+# Kubernetes
+Kubernetes is a software platform for managing containerized applications.
+
+# GitHub Actions
+GitHub Actions is a tool for automating the deployment of your GitHub projects.
+
+# Cypress
+Cypress is a testing framework for the browser.
+
+# Tailwind
+Tailwind is a CSS framework for building responsive, mobile-first layouts.
