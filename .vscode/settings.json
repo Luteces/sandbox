@@ -2,5 +2,8 @@
     
     "eslint.workingDirectories": [
         "frontend"
-    ]
+    ],
+"vetur.validation.template": false,
+"vetur.validation.script": false,
+"vetur.validation.style": false,
 }
